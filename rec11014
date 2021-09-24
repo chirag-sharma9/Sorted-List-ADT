@@ -1,0 +1,14 @@
+project2:
+total 19940
+-rw-r--r--. 1 myid      384 Feb 26 20:47 intcommands.txt
+-rw-r--r--. 1 myid      390 Feb 26 20:45 makefile
+-rw-r--r--. 1 myid      813 Feb 26 20:41 README
+-rw-r--r--. 1 myid        0 Feb 26 20:52 rec11014
+-rw-r--r--. 1 myid     4279 Feb 26 20:19 SortedList.cpp
+-rw-r--r--. 1 myid    11220 Feb 26 17:20 SortedListDr.cpp
+-rw-r--r--. 1 myid     3476 Feb 21 19:12 SortedList.h
+-rw-r--r--. 1 myid 20366356 Feb 22 01:27 SortedList.h.gch
+-rw-r--r--. 1 myid      622 Feb 26 17:23 studcommands.txt
+-rw-r--r--. 1 myid      617 Feb 25 00:17 Student.cpp
+-rw-r--r--. 1 myid      938 Feb 25 00:17 Student.h
+/home/myid/cs85314/project2:/home/myid/csci-2720c
